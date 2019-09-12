@@ -1,0 +1,11 @@
+C:\Users\ОралбаевГ\source\repos\HW_14\HW_14\bin\Debug\netcoreapp2.1\HW_14.deps.json
+C:\Users\ОралбаевГ\source\repos\HW_14\HW_14\bin\Debug\netcoreapp2.1\HW_14.runtimeconfig.json
+C:\Users\ОралбаевГ\source\repos\HW_14\HW_14\bin\Debug\netcoreapp2.1\HW_14.runtimeconfig.dev.json
+C:\Users\ОралбаевГ\source\repos\HW_14\HW_14\bin\Debug\netcoreapp2.1\HW_14.dll
+C:\Users\ОралбаевГ\source\repos\HW_14\HW_14\bin\Debug\netcoreapp2.1\HW_14.pdb
+C:\Users\ОралбаевГ\source\repos\HW_14\HW_14\obj\Debug\netcoreapp2.1\HW_14.csprojAssemblyReference.cache
+C:\Users\ОралбаевГ\source\repos\HW_14\HW_14\obj\Debug\netcoreapp2.1\HW_14.csproj.CoreCompileInputs.cache
+C:\Users\ОралбаевГ\source\repos\HW_14\HW_14\obj\Debug\netcoreapp2.1\HW_14.AssemblyInfoInputs.cache
+C:\Users\ОралбаевГ\source\repos\HW_14\HW_14\obj\Debug\netcoreapp2.1\HW_14.AssemblyInfo.cs
+C:\Users\ОралбаевГ\source\repos\HW_14\HW_14\obj\Debug\netcoreapp2.1\HW_14.dll
+C:\Users\ОралбаевГ\source\repos\HW_14\HW_14\obj\Debug\netcoreapp2.1\HW_14.pdb
